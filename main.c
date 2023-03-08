@@ -1,6 +1,3 @@
-/*
- * Ukazka pro teplenou soustavu bez ventilatoru
-*/
 
 #include "MKL25Z4.h"
 #include "smt160_kl25.h"
